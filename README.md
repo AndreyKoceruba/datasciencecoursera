@@ -1,2 +1,1 @@
-# datasciencecoursera
-Repo for store files of Data Science Specialization
+# Getting and Cleaning Data Course Project
